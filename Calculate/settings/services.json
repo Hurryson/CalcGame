@@ -1,0 +1,18 @@
+{
+	"game": {
+		"name": "弱者问答",
+		"appid": "650675050",
+		"cid": "0"
+	},
+	"configs": [
+		{
+			"appid": "650675050",
+			"services": [
+				{
+					"service_id": "272",
+					"enable": false
+				}
+			]
+		}
+	]
+}
