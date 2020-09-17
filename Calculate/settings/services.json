@@ -11,6 +11,10 @@
 				{
 					"service_id": "272",
 					"enable": false
+				},
+				{
+					"service_id": "269",
+					"enable": false
 				}
 			]
 		}
